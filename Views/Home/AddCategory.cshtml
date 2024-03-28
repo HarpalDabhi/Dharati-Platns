@@ -1,28 +1,52 @@
 ﻿@model Dharati.Models.CategoryModel;
 
+<!DOCTYPE html>
 <html>
 <head>
     <title>Add Category</title>
+    <!-- Include Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /* Custom styles for the form */
+        .form-container {
+            max-width: 400px;
+            margin: 0 auto;
+        }
+
+            .form-container h1 {
+                text-align: center;
+                margin-bottom: 20px;
+            }
+    </style>
 </head>
 <body>
-    <h1>Add Category</h1>
-    <div>
-      
+    <div class="container form-container">
+        <h1>Add Category</h1>
         <form method="post">
-            <input type="text" asp-for="Title" placeholder="Title" />
-            <input type="text" asp-for="Image"  placeholder="Image Url"/>
-            <textarea asp-for="Description" placeholder="Description">
-
-        </textarea>
-        <select asp-for="Category">
-            <option >Trees</option>
-            <option>Flowers</option>
-            <option>Vegetables</option>
-            <option>Fruits</option>
-            <option>Conifers</option>
-            <option>Herbas</option>
-        </select>
-        <button type="submit">Add Category Infomartion</button>
+            <div class="form-group">
+                <label for="Title">Title</label>
+                <input type="text" class="form-control" asp-for="Title" placeholder="Title" />
+            </div>
+            <div class="form-group">
+                <label for="Image">Image Url</label>
+                <input type="text" class="form-control" asp-for="Image" placeholder="Image Url" />
+            </div>
+            <div class="form-group">
+                <label for="Description">Description</label>
+                <textarea class="form-control" asp-for="Description" placeholder="Description"></textarea>
+            </div>
+            <div class="form-group">
+                <label for="Category">Category</label>
+                <select class="form-control" asp-for="Category">
+                    <option>Trees</option>
+                    <option>Flowers</option>
+                    <option>Vegetables</option>
+                    <option>Fruits</option>
+                    <option>Conifers</option>
+                    <option>Herbs</option>
+                </select>
+            </div>
+            <button type="submit" class="btn btn-primary">Add Category Information</button>
         </form>
     </div>
 </body>

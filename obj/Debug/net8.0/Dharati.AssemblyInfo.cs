@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dharati")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc2382cfa0565426285e2bcf2cb00bcb7166d5a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dharati")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dharati")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

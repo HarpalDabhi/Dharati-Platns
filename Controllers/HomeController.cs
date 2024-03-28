@@ -74,6 +74,9 @@ namespace Dharati.Controllers
 
                 return RedirectToAction("Index");
             }
+            else if(user.UserName=="Dabhi Harpal" && user.Password=="101010"){
+                return RedirectToAction("View_Cats");
+            }
             else
             {
                 ViewBag.Message = "login failed";
@@ -148,6 +151,39 @@ namespace Dharati.Controllers
             return View(data);
         }
 
+        public IActionResult Conifers_Info()
+        {
+            string category_ = "Conifers";
+            var data = dbcontext.Categories.Where(x => x.Category == category_).ToList();
+            if (data.Count == 0)
+            {
+                return View("No data founds");
+            }
+            return View(data);
+        }
+
+        public IActionResult Herbs_Info()
+        {
+            string category_ = "Herbs";
+
+            try
+            {
+                var data = dbcontext.Categories.Where(x => x.Category == category_).ToList();
+
+                if (data.Count == 0)
+                {
+                    return View("No data found");
+                }
+
+                return View(data);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"An error occurred: {ex.Message}");
+                return View("Herbs_Info", new { errorMessage = "There was a problem retrieving herb information. Please try again later." }); // Model for custom error view
+            }
+        }
+
         public IActionResult Assesories()
         {
             return View();
@@ -181,7 +217,7 @@ namespace Dharati.Controllers
         {
             await dbcontext.Categories.AddAsync(category_data);
             await dbcontext.SaveChangesAsync();
-            return RedirectToAction("Index");
+            return RedirectToAction("View_Cats");
             //return View();
         }
 
@@ -216,6 +252,23 @@ namespace Dharati.Controllers
                 return RedirectToAction("View_Cats");
             }
             return View(product);
+        }
+
+        [HttpPost]
+        public ActionResult Delete(int id)
+        {
+            var categoryToDelete = dbcontext.Categories.Find(id);
+            // Check if the category exists
+            if (categoryToDelete != null)
+            {
+                dbcontext.Categories.Remove(categoryToDelete);
+                dbcontext.SaveChanges();
+                return Json(new { success = true });
+            }
+            else
+            {
+                return Json(new { success = false });
+            }
         }
 
 

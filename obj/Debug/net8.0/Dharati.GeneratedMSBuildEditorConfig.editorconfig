@@ -46,6 +46,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXRlZ29yeV9pbmZvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/ANANTA/C\# Sir/New folder/Dharati/Views/Home/Conifers_Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb25pZmVyc19JbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ANANTA/C\# Sir/New folder/Dharati/Views/Home/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/ANANTA/C\# Sir/New folder/Dharati/Views/Home/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -62,8 +70,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIZWxwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/ANANTA/C\# Sir/New folder/Dharati/Views/Home/Herbs_Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIZXJic19JbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/ANANTA/C\# Sir/New folder/Dharati/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ANANTA/C\# Sir/New folder/Dharati/Views/Home/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleDEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/ANANTA/C\# Sir/New folder/Dharati/Views/Home/Login.cshtml]
