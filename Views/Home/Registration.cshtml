@@ -1,0 +1,38 @@
+﻿
+@model Dharati.Models.RegistrationModel;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="~/css/registration.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Page</title>
+</head>
+<body>
+    <form method="post">
+    <div class="form-division">
+        <div class="form-section">
+            <h3>Sign Up</h3>
+            <div class="username">
+                <label for="username">Username</label>
+                <input type="text" name="username" id="username" asp-for="UserName" required>
+            </div>
+
+            <div class="email">
+                <label for="email">Email</label>
+                <input type="email" name="email" id="email" asp-for="Email" required>
+            </div>
+
+            <div class="password">
+                <label for="password">Password</label>
+                <input type="password" name="password" id="password" asp-for="Password" required>
+            </div>
+
+            <button type="submit" id="sign-up">Sign Up</button>
+            <button id="cancel">Cancel</button>
+                <p>Already have account ? <a asp-controller="Home" asp-action="Login">Login</a></p>
+        </div>
+    </div>
+    </form>
+</body>
+</html>

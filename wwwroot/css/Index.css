@@ -1,0 +1,38 @@
+﻿* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+.container-my {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 80vh;
+ 
+}
+
+.home-content h3 {
+    color: wheat;
+    font-size: 1.8rem;
+}
+
+.home-content h2 {
+    font-size: 2rem;
+}
+
+.home-content a button {
+    border: none;
+    border-radius: 50px;
+    padding: 15px 25px;
+    font-size: 18px;
+    color: yellow;
+    background-color: green;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+body {
+  
+}   

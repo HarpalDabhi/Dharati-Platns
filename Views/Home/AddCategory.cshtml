@@ -1,0 +1,29 @@
+﻿@model Dharati.Models.CategoryModel;
+
+<html>
+<head>
+    <title>Add Category</title>
+</head>
+<body>
+    <h1>Add Category</h1>
+    <div>
+      
+        <form method="post">
+            <input type="text" asp-for="Title" placeholder="Title" />
+            <input type="text" asp-for="Image"  placeholder="Image Url"/>
+            <textarea asp-for="Description" placeholder="Description">
+
+        </textarea>
+        <select asp-for="Category">
+            <option >Trees</option>
+            <option>Flowers</option>
+            <option>Vegetables</option>
+            <option>Fruits</option>
+            <option>Conifers</option>
+            <option>Herbas</option>
+        </select>
+        <button type="submit">Add Category Infomartion</button>
+        </form>
+    </div>
+</body>
+</html>

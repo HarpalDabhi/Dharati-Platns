@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Dharati.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Dharati.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\Pruning_sheers.jpeg",
+      "PackagePath": "staticwebassets\\Pruning_sheers.jpeg"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\about_agriculture.jpg",
+      "PackagePath": "staticwebassets\\about_agriculture.jpg"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\background.jpg",
+      "PackagePath": "staticwebassets\\background.jpg"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\contact_gmail.png",
+      "PackagePath": "staticwebassets\\contact_gmail.png"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\contact_location.png",
+      "PackagePath": "staticwebassets\\contact_location.png"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\contact_phone.png",
+      "PackagePath": "staticwebassets\\contact_phone.png"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\contact_time.png",
+      "PackagePath": "staticwebassets\\contact_time.png"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\css\\About.css",
+      "PackagePath": "staticwebassets\\css\\About.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\css\\Assesories.css",
+      "PackagePath": "staticwebassets\\css\\Assesories.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\css\\Category.css",
+      "PackagePath": "staticwebassets\\css\\Category.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\css\\Help.css",
+      "PackagePath": "staticwebassets\\css\\Help.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\css\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Index.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\css\\Price.css",
+      "PackagePath": "staticwebassets\\css\\Price.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\css\\Registration.css",
+      "PackagePath": "staticwebassets\\css\\Registration.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\css\\Vlog.css",
+      "PackagePath": "staticwebassets\\css\\Vlog.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\css\\category_more_info.css",
+      "PackagePath": "staticwebassets\\css\\category_more_info.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\flower.jpg",
+      "PackagePath": "staticwebassets\\flower.jpg"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\garden_fork.jpeg",
+      "PackagePath": "staticwebassets\\garden_fork.jpeg"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\hands.jpg",
+      "PackagePath": "staticwebassets\\hands.jpg"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\hoe.jpeg",
+      "PackagePath": "staticwebassets\\hoe.jpeg"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\hose.jpeg",
+      "PackagePath": "staticwebassets\\hose.jpeg"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\loppers.jpeg",
+      "PackagePath": "staticwebassets\\loppers.jpeg"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\plant.png",
+      "PackagePath": "staticwebassets\\plant.png"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\pot_1.jpg",
+      "PackagePath": "staticwebassets\\pot_1.jpg"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\pot_2.jpg",
+      "PackagePath": "staticwebassets\\pot_2.jpg"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\pot_3.jpg",
+      "PackagePath": "staticwebassets\\pot_3.jpg"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\pot_4.jpg",
+      "PackagePath": "staticwebassets\\pot_4.jpg"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\rake.jpeg",
+      "PackagePath": "staticwebassets\\rake.jpeg"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\seed_beans.jpeg",
+      "PackagePath": "staticwebassets\\seed_beans.jpeg"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\seed_corn.jpeg",
+      "PackagePath": "staticwebassets\\seed_corn.jpeg"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\seed_kiwi.jpeg",
+      "PackagePath": "staticwebassets\\seed_kiwi.jpeg"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\seed_mango.jpeg",
+      "PackagePath": "staticwebassets\\seed_mango.jpeg"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\spade.jpeg",
+      "PackagePath": "staticwebassets\\spade.jpeg"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\tree.jpg",
+      "PackagePath": "staticwebassets\\tree.jpg"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\vegetables.jpg",
+      "PackagePath": "staticwebassets\\vegetables.jpg"
+    },
+    {
+      "Id": "D:\\ANANTA\\C# Sir\\New folder\\Dharati\\wwwroot\\watering_can.jpeg",
+      "PackagePath": "staticwebassets\\watering_can.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Dharati.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Dharati.props",
+      "PackagePath": "build\\Dharati.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Dharati.props",
+      "PackagePath": "buildMultiTargeting\\Dharati.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Dharati.props",
+      "PackagePath": "buildTransitive\\Dharati.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

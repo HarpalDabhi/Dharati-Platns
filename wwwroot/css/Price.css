@@ -1,0 +1,33 @@
+﻿h1 {
+    margin: 1rem;
+    font-size: 1.8rem;
+    color: green;
+    text-shadow: 1px 1px 1px white;
+    font-weight: bold;
+}
+
+.plants-price-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+    .plants-price-section .card-item {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+        .plants-price-section .card-item img {
+            border-radius: 8px;
+        }
+
+        .plants-price-section .card-item span {
+            font-size: 1.2rem;
+            margin: 10px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            color:white;
+        }
+body{
+    font-family:Verdana;
+}

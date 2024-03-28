@@ -1,0 +1,34 @@
+﻿* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.about-content {
+    margin: 20px;
+    padding: 20px;
+}
+
+    .about-content h1 {
+        text-align: center;
+        font-size: 3rem;
+        color: green;
+        text-shadow: 1px 1px 1px white;
+        font-weight: bold;
+    }
+
+p {
+    font-size: 25px;
+}
+
+.img-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin:1rem;
+}
+.img-content img{
+    margin:30px 50px;
+}
+
+    .img-content p {
+        width: 70%;
+    }

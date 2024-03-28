@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Categories";
+}
+
+<link rel="stylesheet" href="~/css/Category.css" asp-append-version="true" />
+
+<div class="category-section">
+    <h1>Plants Category</h1>
+    <div class="plants-card">
+        <div class="card-items">
+           <a   asp-controller="Home" asp-action="Trees_Info" >
+                <div class="card-item" >
+                    <img src="~/tree.jpg" width="350px" height="350px">
+                    <span>Trees</span>
+                </div>
+           </a>
+
+           <a asp-controller="Home" asp-action="Flowers_Info">
+            <div class="card-item">
+                <img src="~/flower.jpg" width="350px" height="350px">
+                <span>Flowers</span>
+            </div>
+            </a>
+
+            <a asp-controller="Home" asp-action="Vegetables_Info">
+            <div class="card-item">
+                <img src="~/vegetables.jpg" width="350px" height="350px">
+                <span>Vegetables</span>
+            </div>
+            </a>
+        </div>
+    </div>
+
+    <div class="plants-card">
+        <div class="card-items">
+        <a asp-controller="Home" asp-action="Fruits_Info">
+            <div class="card-item">
+                <img src="https://imgs.search.brave.com/XZzwcZYcb2Mlj9Ve1rOHRsZvQ9yiX4rQNru10GpPLOE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAwLzY1LzcwLzY1/LzM2MF9GXzY1NzA2/NTk3X3VObTJTd2xQ/SXVOVUR1TXdvNnN0/QmQ4MWUyNVk4Szhz/LmpwZw" width="350px" height="350px">
+                <span>Fruits</span>
+            </div>
+        </a>
+
+            <div class="card-item">
+                <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcST65-DPYVjolRKo4gcJz2QlM91PeKQJJoPMmw0a3h_dpSMF6hpEB4fUvdydnef" width="350px" height="350px">
+                <span>Conifers</span>
+            </div>
+
+            <div class="card-item">
+                <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtaehO4bHrRNjULWFPKCNyveRMmAJ-PRyDcQcNcs9C-mzHtbQBNkOzZOLu9V_U" width="350px" height="350px">
+                <span>Herbs</span>
+            </div>
+        </div>
+    </div>
+</div>

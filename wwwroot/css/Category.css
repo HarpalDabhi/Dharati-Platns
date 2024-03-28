@@ -1,0 +1,49 @@
+﻿.category-section h1 {
+    text-align: center;
+    font-size: 3rem;
+    color: green;
+    text-shadow: 1px 1px 1px white;
+    font-weight: bold;
+}
+.category-section {
+    margin: 20px;
+    padding: 20px;
+}
+
+.card-items {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.card-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid black;
+    padding: 1.5rem 2rem;
+    border-radius: 15px;
+    border: none;
+    box-shadow: 0px 0px 5px yellow;
+    margin: 2px 28px;
+    background-color: rgba(34, 238, 12, 0.371);
+}
+
+    .card-item img {
+        border-radius: 10px;
+    }
+
+    .card-item span {
+        font-size: 1.5rem;
+        font-weight: bold;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-shadow:1px 1px 1px white;
+    }
+
+ .plants-card{
+     margin-bottom:2rem;
+ }
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
